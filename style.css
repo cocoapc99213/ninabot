@@ -1,0 +1,65 @@
+body {
+        background-color: #252525;
+        color: #fff;
+      }
+    .bar {
+      display: flex;
+      align-items: center;
+      background-color: #333333;
+      color: white;
+      padding: 0.5em 1em;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    .bar a {
+      color: white;
+      margin-left: 40px;
+      text-decoration: none;
+      font-size: 1.8em;
+      font-weight: bold;
+      margin-right: 0.5em;
+    }
+    .bar a:hover {
+      border-bottom: 2px solid #fff;
+    }
+    .main {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 400px;
+      font-size: 1.7em;
+      font-weight: bold;
+      color: white;
+    }
+    .auto-input{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 400px;
+      font-size: 1.7em;
+      font-weight: bold;
+      color: white;
+    }
+    .box{
+      background-color:#333333;
+      padding: 15px;
+      height:200px;
+      width: 700px;
+      border-radius: 10px; /* 角を丸くする */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    .box2{
+      background-color:#333333;
+      padding: 15px;
+      height:1000px;
+      width: 1000px;
+      border-radius: 10px; /* 角を丸くする */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    .box3{
+      background-color:#333333;
+      padding: 15px;
+      height:600px;
+      width: 1700px;
+      border-radius: 10px; /* 角を丸くする */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
