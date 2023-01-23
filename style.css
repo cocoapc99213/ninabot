@@ -63,3 +63,14 @@ body {
       border-radius: 10px; /* 角を丸くする */
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     }
+    .box4{
+      background-color:#333333;
+      padding: 15px;
+      height:900px;
+      width: 1700px;
+      border-radius: 10px; /* 角を丸くする */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    .li{
+      size:100px;
+    }
